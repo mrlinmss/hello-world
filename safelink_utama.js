@@ -21,8 +21,8 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="indian-intelligence-agencies-red-flags.html"}
-if(x=="2"){xxx="pubg-mobile-ban-india-bans-47-chinese.html"}
+if(x=="1"){xxx="10-reasons-why-android-os-is-better.html"}
+if(x=="2"){xxx="huawei-usb-driver-for-all-huawei-and.html"}
 if(x=="3"){xxx="how-to-install-minimal-adb-and-fastboot.html"}
 if(x=="4"){xxx="how-to-install-system-wide-fastbootadb.html"}a_to_ve[i].href="https://www.starlink1.us/2020/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
